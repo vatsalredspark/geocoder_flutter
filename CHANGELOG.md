@@ -1,3 +1,7 @@
+## [0.2.2-nullsafety] - Add nullsafety support
+
+* Migrated to null safety
+
 ## [0.2.1] - Fixed issues with Uint8List
 
 * Fixed breaking changes in newer SDK versions.
