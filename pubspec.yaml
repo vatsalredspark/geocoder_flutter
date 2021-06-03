@@ -1,7 +1,7 @@
 name: flutter_geocoder
 description: Forward and reverse geocoding.
 version: 0.2.2-nullsafety
-homepage: https://github.com/JCKodel/flutter_geocoder
+homepage: https://github.com/Yash-Garg/flutter_geocoder
 
 flutter:
   plugin:
@@ -14,6 +14,7 @@ dependencies:
   flutter:
     sdk: flutter
   meta: ^1.1.6
+  pedantic: ^1.11.0
 
 environment:
   flutter: ">=2.0.0"
