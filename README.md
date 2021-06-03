@@ -1,15 +1,15 @@
-# flutter_geocoder
+# geocoder_flutter
 
 Forward and reverse geocoding.
 
-# Usage
+## Usage
 
-Import `package:flutter_geocoder/geocoder.dart`, and use the `Geocoder.local` to access geocoding services provided by the device system.
+Import `package:geocoder_flutter/geocoder.dart`, and use the `Geocoder.local` to access geocoding services provided by the device system.
 
 Example:
 
 ```dart
-import 'package:flutter_geocoder/geocoder.dart';
+import 'package:geocoder_flutter/geocoder.dart';
 
 // From a query
 final query = "1600 Amphiteatre Parkway, Mountain View";
