@@ -26,6 +26,7 @@ rootProject.allprojects {
 apply plugin: 'com.android.library'
 
 android {
+    namespace 'com.geocoder.flutter'
     compileSdkVersion 28
     //buildToolsVersion '28.0.3'
 
